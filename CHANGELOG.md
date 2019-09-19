@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Obsługa statusu check-in - można zamykać/otwierać poszczególne kategorie. Przy logowaniu jako skrutiner możliwe jest dopisywanie/rejestrowanie par ignorując status. Z tego powodu bezwzględnie dla osób trzecich obsługujących check-in należy udostępniać login i hasło dedykowane (zmieniające się każdego dnia)
 - W panelu sędziego głównego, w widoku kategorii dostępny jest status check-in oraz aktualna liczba zarejestrowanych par
 - W check-in dodano przełącznik WDSF API, który pozwala włączyć/wyłączyć komunikację z API WDSF i sprawdzanie MIN i RLS
+- W panelu check-in dodano obsługę czytnika kodów kreskowych
 
 ### Fixed
 - Poprawione generowanie numerów startowych w Check-in - poprawiona obsługa "jeden numer na parę/oddzielnie na każdy dzień"
