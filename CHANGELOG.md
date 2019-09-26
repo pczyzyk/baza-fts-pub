@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.4.2] - 2019-09-24
+## [1.4.2] - 2019-09-26
 ### Added
 - Dodano wyświetlanie godzin rozpoczęcia kategorii podczas rejestracji w przypadku turniejów festiwalowych
 
@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Data kategorii jest pobierana jako data bloku, w którym rozgrywana jest kategoria
 - Przyspieszono renderowanie formatki turnieju w panelu administracyjnym - pobieranie większości relacji podrzędnych zmieniono na EXTRA_LAZY
+- Zmieniono user_manager na user_provider i dodano możliwość logowania za pomocą adresu email
 
 ## [1.4.1] - 2019-09-15
 ### Added
