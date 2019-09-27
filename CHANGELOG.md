@@ -6,12 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.4.2] - 2019-09-26
+## [1.4.2] - 2019-09-27
 ### Added
 - Dodano wyświetlanie godzin rozpoczęcia kategorii podczas rejestracji w przypadku turniejów festiwalowych
 
 ### Fixed
 - Poprawiona rejestracja par na turnieje WDSF - sprawdzanie licencji WDSF nie było poprawne w przypadku turniejów festiwalowych
+- Poprawione dodawanie pary z bazy WDSF przez panel Check-in
 
 ### Changed
 - Data kategorii jest pobierana jako data bloku, w którym rozgrywana jest kategoria
