@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.4.3] - 2019-10-09
+### Added
+- Dodano wydruk paneli sędziowskich z sędziami jako wierszami
+
+### Changed
+- Zmieniono wczytywanie informacji o licencji WDSF w panelu check-in z synchronicznego na asynchroniczny
+
 ## [1.4.2] - 2019-10-02
 ### Added
 - Dodano wyświetlanie godzin rozpoczęcia kategorii podczas rejestracji w przypadku turniejów festiwalowych
