@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+
+## [1.4.4] - 2019-10-24
+### Fixed
+- Naprawiono sprawdzanie aktywności tancerzy w panelu rejestracji (zatwierdzenie wniosków + 30 dni na załatwienie sprawy)
+
 ## [1.4.3] - 2019-10-09
 ### Added
 - Dodano wydruk paneli sędziowskich z sędziami jako wierszami
