@@ -6,8 +6,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.4.6] - 2020-01-28
+### Added
+- Dodano podgląd zarejestrowanych zawodników i przypisanych sędziów do panelu sędziego głównego
+
+### Fixed
+- 
+
+## [1.4.5] - 2019-11-15
+### Added
+- Dodano podgląd zarejestrowanych zawodników i przypisanych sędziów do panelu sędziego głównego
+
+### Fixed
+- Naprawiono drukowanie numerów startowych
 
 ## [1.4.4] - 2019-10-25
+### Added
+- Dodano obsługę wielu klubów przypisanych do jednego konta
+
 ### Fixed
 - Naprawiono sprawdzanie aktywności tancerzy w panelu rejestracji (zatwierdzenie wniosków + 30 dni na załatwienie sprawy)
 
